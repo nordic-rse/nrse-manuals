@@ -64,16 +64,16 @@ html_context = {'display_github': True,
                 'github_version': 'main/',
                }
 
-import os
-if os.environ.get('GITHUB_REF', '') == 'refs/heads/main':
-    html_js_files = [
-        ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "nordic-rse.github.io", "defer": "defer"}),
-    ]
+# import os
+# if os.environ.get('GITHUB_REF', '') == 'refs/heads/main':
+#     html_js_files = [
+#        ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "nordic-rse.github.io", "defer": "defer"}),
+#    ]
 
-epub_basename='nrse-manuals'
-latex_documents = [
-    (master_doc, 'nrse-manuals.tex', project, author, 'manual')
-    ]
+# epub_basename='nrse-manuals'
+# latex_documents = [
+#   (master_doc, 'nrse-manuals.tex', project, author, 'manual')
+#    ]
 
 # https://github.com/sphinx-contrib/emojicodes/pull/22/files
 latex_engine = 'xelatex'
