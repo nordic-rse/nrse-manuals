@@ -12,7 +12,7 @@
 
 - Set roles for organizing team
 - Create website
-- Check about accomodation
+- Check about accommodation
 - Check about catering options
 - Decide on ticket price
 - Sponsor outreach
