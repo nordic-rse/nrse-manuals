@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'CodeRefinery manuals'
-copyright = '2018-2023, The CodeRefinery team'
-author = 'The CodeRefinery team'
+project = 'Nordic RSE manuals'
+copyright = '2026, The Nordic RSE team'
+author = 'The Nordic-RSE team'
 
 
 # -- General configuration ---------------------------------------------------
@@ -60,20 +60,20 @@ html_theme = 'sphinx_rtd_theme'
 master_doc = 'index'
 
 html_context = {'display_github': True,
-                'github_user': 'coderefinery',
-                'github_repo': 'manuals',
+                'github_user': 'nordic-rse',
+                'github_repo': 'nrse-manuals',
                 'github_version': 'master/',
                }
 
 import os
 if os.environ.get('GITHUB_REF', '') == 'refs/heads/master':
     html_js_files = [
-        ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "coderefinery.github.io", "defer": "defer"}),
+        ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "nordic-rse.github.io", "defer": "defer"}),
     ]
 
-epub_basename='CodeRefineryManuals'
+epub_basename='nrse-manuals'
 latex_documents = [
-    (master_doc, 'CodeRefineryManuals.tex', project, author, 'manual')
+    (master_doc, 'nrse-manuals.tex', project, author, 'manual')
     ]
 
 # https://github.com/sphinx-contrib/emojicodes/pull/22/files
