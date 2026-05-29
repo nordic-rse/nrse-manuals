@@ -31,7 +31,6 @@ extensions = [
     'myst_parser',
     'sphinx_rtd_theme_ext_color_contrast',
     'sphinx_togglebutton',
-    'sphinx_coderefinery_branding',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -62,11 +61,11 @@ master_doc = 'index'
 html_context = {'display_github': True,
                 'github_user': 'nordic-rse',
                 'github_repo': 'nrse-manuals',
-                'github_version': 'master/',
+                'github_version': 'main/',
                }
 
 import os
-if os.environ.get('GITHUB_REF', '') == 'refs/heads/master':
+if os.environ.get('GITHUB_REF', '') == 'refs/heads/main':
     html_js_files = [
         ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "nordic-rse.github.io", "defer": "defer"}),
     ]
