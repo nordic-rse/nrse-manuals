@@ -26,6 +26,8 @@
 - Inivitation
 - Wrap-up e-mail
 
+See [nordic-rse/conference_utilities](https://github.com/nordic-rse/conference_utilities) for a script that generates a visa invitation letter as a PDF.
+
 
 ## Registration form
 
@@ -68,7 +70,7 @@ A-Z document example : https://hackmd.io/@nordic-rse/nrsecon25_az
 
 ## Registration and contribution collection
 
--NeIC Indico
+- NeIC Indico
 
 ## Payment handling
 

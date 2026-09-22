@@ -2,6 +2,8 @@
 
 > This document is WIP
 
+See [conference-av.md](conference-av.md) for AV (audio/visual) setup and presenting logistics.
+
 - [ ] Set dates
 - [ ] Create website
 - [ ] Setup registration
@@ -24,6 +26,7 @@
 - [ ] Organizer gifts
 - [ ] Goodies for participants / Sticker table
 - [ ] Collection process for presentations
+- [ ] Set up AV (see [conference-av.md](conference-av.md))
 - [ ] Decide topic or session topics
 - [ ] Feedback form?
 - [ ] ...
