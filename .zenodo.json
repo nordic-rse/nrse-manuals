@@ -1,0 +1,38 @@
+{
+  "title": "Nordic-RSE operation manuals",
+  "description": "Nordic-RSE's internal handbook: manuals, checklists, and templates for running the association, its board, its conferences, and its website.",
+  "creators": [
+    {
+      "name": "The Nordic-RSE team"
+    },
+    {
+      "name": "Wittke, Samantha",
+      "affiliation": "CSC- IT Center for Science",
+      "orcid": "0000-0002-9625-7235"
+    }
+  ],
+  "notes": "The structure of this handbook was informed by the CSCCE (Center for Scientific Collaboration and Community Engagement, https://www.cscce.org/) Creating Community Playbooks workshop. Suggested citation: Pratt, Katie and Woodley, Lou. (2025). CSCCE course info sheet: Creating Community Playbooks (PBK). Center for Scientific Collaboration and Community Engagement. https://doi.org/10.5281/zenodo.15793475",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "keywords": [
+    "Research Software Engineering",
+    "RSE",
+    "Nordic-RSE",
+    "handbook",
+    "documentation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://nordic-rse.github.io/nrse-manuals/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-technicalnote"
+    },
+    {
+      "identifier": "https://nordic-rse.org",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}
