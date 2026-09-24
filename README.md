@@ -1,5 +1,7 @@
 # Nordic-RSE operation manuals
 
+<img src="_static/NRSE_logo.png" alt="Nordic-RSE logo" width="400">
+
 :::{warning}
 This page is a work in progress.
 :::
