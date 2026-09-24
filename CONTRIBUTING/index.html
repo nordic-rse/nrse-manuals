@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contributing to the Nordic-RSE manuals &mdash; Nordic RSE manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/NRSE_favicon.png"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="nordic-rse.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Nordic-RSE conference organization handbook" href="../conference/" />
+    <link rel="prev" title="Nordic-RSE website" href="../website/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search"  style="background: #272025" >
+
+          
+          
+          <a href="../">
+            
+              <img src="../_static/NRSE_favicon.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">General</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">New team member onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../membership/">Nordic-RSE membership and what it enables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../website/">Nordic-RSE website</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Contributing to the Nordic-RSE manuals</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#index-md-vs-readme-md">index.md vs README.md</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#adding-a-new-page">Adding a new page</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#building-locally">Building locally</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#without-make">Without <code class="docutils literal notranslate"><span class="pre">make</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#ci-checks">CI checks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#conventions-used-in-this-repo">Conventions used in this repo</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/nordic-rse/nordic-rse-materials">Logo and artwork</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Conference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../conference/">Nordic-RSE conference organization handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-roles/">Conference roles</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-timeline/">Timeline</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-tools-templates/">Tools and templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-checklist/">Checklist of what needs to be done</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-funding/">Conference funding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-av/">Conference AV (audio/visual)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference-session-chair-guide/">Session chair guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coc-conference/">Code of conduct for In Person Conferences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coc-info-for-organizers/">Code of Conduct Information for Organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Board</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding_board/">Onboarding for Nordic-RSE members of the board</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../annual_meeting/">Nordic-RSE association annual meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../annual_meeting_template/">Annual meeting templates</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu"  style="background: #272025" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">Nordic RSE manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Contributing to the Nordic-RSE manuals</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/nordic-rse/nrse-manuals/blob/main/CONTRIBUTING.md" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="contributing-to-the-nordic-rse-manuals">
+<h1>Contributing to the Nordic-RSE manuals<a class="headerlink" href="#contributing-to-the-nordic-rse-manuals" title="Permalink to this heading"></a></h1>
+<p>This repo is built into a documentation site with <a class="reference external" href="https://www.sphinx-doc.org/">Sphinx</a>, published to <a class="reference external" href="https://nordic-rse.github.io/nrse-manuals/">https://nordic-rse.github.io/nrse-manuals/</a>.</p>
+<p>Sphinx is a documentation generator: it takes source files (here, Markdown via the <a class="reference external" href="https://myst-parser.readthedocs.io/">MyST</a> parser) and builds them into a navigable site (HTML, plus PDF/epub in our case). It’s configured via <code class="docutils literal notranslate"><span class="pre">conf.py</span></code> in this repo. See the <a class="reference external" href="https://www.sphinx-doc.org/en/master/">Sphinx documentation</a> for more, or the <a class="reference external" href="https://myst-parser.readthedocs.io/en/latest/syntax/syntax.html">MyST syntax guide</a> for the Markdown extensions it supports (e.g. the <code class="docutils literal notranslate"><span class="pre">{toctree}</span></code> and admonition blocks used in this repo).</p>
+<div class="section" id="index-md-vs-readme-md">
+<h2>index.md vs README.md<a class="headerlink" href="#index-md-vs-readme-md" title="Permalink to this heading"></a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">index.md</span></code> is a symlink to <code class="docutils literal notranslate"><span class="pre">README.md</span></code> — they are the same file on disk, not two copies. Sphinx needs a file named <code class="docutils literal notranslate"><span class="pre">index.md</span></code> as its root page (<code class="docutils literal notranslate"><span class="pre">master_doc</span> <span class="pre">=</span> <span class="pre">'index'</span></code> in <code class="docutils literal notranslate"><span class="pre">conf.py</span></code>), while GitHub renders <code class="docutils literal notranslate"><span class="pre">README.md</span></code> as the repo’s landing page; the symlink lets one file serve both without duplicating content. <code class="docutils literal notranslate"><span class="pre">conf.py</span></code> excludes <code class="docutils literal notranslate"><span class="pre">README.md</span></code> from the Sphinx build itself, so it isn’t processed twice. In practice: just edit <code class="docutils literal notranslate"><span class="pre">README.md</span></code> (or <code class="docutils literal notranslate"><span class="pre">index.md</span></code>, it’s the same file), and both stay in sync automatically.</p>
+</div>
+<div class="section" id="adding-a-new-page">
+<h2>Adding a new page<a class="headerlink" href="#adding-a-new-page" title="Permalink to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Add a new <code class="docutils literal notranslate"><span class="pre">.md</span></code> file at the repo root.</p></li>
+<li><p>Add it to the relevant <code class="docutils literal notranslate"><span class="pre">{toctree}</span></code> block in <code class="docutils literal notranslate"><span class="pre">README.md</span></code> — a page not listed in a toctree won’t appear in the built site’s navigation, even though the file exists. (This has bitten us before — several pages in this repo were created without being added to a toctree.)</p></li>
+</ol>
+</div>
+<div class="section" id="building-locally">
+<h2>Building locally<a class="headerlink" href="#building-locally" title="Permalink to this heading"></a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+<span class="n">make</span> <span class="n">html</span>
+</pre></div>
+</div>
+<p>Open <code class="docutils literal notranslate"><span class="pre">_build/html/index.html</span></code> in a browser. <code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">dirhtml</span></code> produces the same output but matches the structure used for the live site more closely.</p>
+<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">gh-pages</span></code> (used by CI) additionally builds the single-page HTML, PDF, and epub versions, which requires a full LaTeX install (<code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">gh-pages-dependencies</span></code>) — you generally don’t need this for local editing.</p>
+<div class="section" id="without-make">
+<h3>Without <code class="docutils literal notranslate"><span class="pre">make</span></code><a class="headerlink" href="#without-make" title="Permalink to this heading"></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">html</span></code> is just a wrapper around <code class="docutils literal notranslate"><span class="pre">sphinx-build</span></code>; you can call it directly instead:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">sphinx</span><span class="o">-</span><span class="n">build</span> <span class="o">-</span><span class="n">b</span> <span class="n">html</span> <span class="o">.</span> <span class="n">_build</span><span class="o">/</span><span class="n">html</span>
+</pre></div>
+</div>
+<p>(<code class="docutils literal notranslate"><span class="pre">-b</span></code> selects the builder, e.g. <code class="docutils literal notranslate"><span class="pre">dirhtml</span></code> or <code class="docutils literal notranslate"><span class="pre">epub</span></code> instead of <code class="docutils literal notranslate"><span class="pre">html</span></code>.) Or, since <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> also installs <a class="reference external" href="https://github.com/sphinx-doc/sphinx-autobuild"><code class="docutils literal notranslate"><span class="pre">sphinx-autobuild</span></code></a>, get a live-reloading dev server:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">sphinx</span><span class="o">-</span><span class="n">autobuild</span> <span class="o">.</span> <span class="n">_build</span><span class="o">/</span><span class="n">html</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="ci-checks">
+<h2>CI checks<a class="headerlink" href="#ci-checks" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p><strong>Sphinx build</strong> (<code class="docutils literal notranslate"><span class="pre">.github/workflows/sphinx.yml</span></code>): builds the site on every push/PR, and deploys to <code class="docutils literal notranslate"><span class="pre">gh-pages</span></code> on push to <code class="docutils literal notranslate"><span class="pre">main</span></code>.</p></li>
+<li><p><strong>Spellcheck</strong> (<code class="docutils literal notranslate"><span class="pre">.github/workflows/spellcheck.yml</span></code>): runs <a class="reference external" href="https://github.com/client9/misspell"><code class="docutils literal notranslate"><span class="pre">misspell</span></code></a> on every push and fails the build on errors. Run <code class="docutils literal notranslate"><span class="pre">bin/misspell</span> <span class="pre">-error</span> <span class="pre">*</span></code> locally if you want to check before pushing.</p></li>
+</ul>
+</div>
+<div class="section" id="conventions-used-in-this-repo">
+<h2>Conventions used in this repo<a class="headerlink" href="#conventions-used-in-this-repo" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Prefer linking to the canonical page over repeating its content — several pages here link to each other (or out to <a class="reference external" href="https://nordic-rse.org">nordic-rse.org</a>) rather than duplicating text, to avoid the copies drifting out of sync.</p></li>
+<li><p>Public-facing content (who we are, how to join, event info) belongs on nordic-rse.org; this repo is the organizer/board-facing “how we actually do this” side — see the note at the top of <span class="xref myst">README.md</span>.</p></li>
+<li><p>Where we don’t actually know how something is done in practice, say so with a <code class="docutils literal notranslate"><span class="pre">TODO:</span></code> note rather than guessing or leaving it blank.</p></li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../website/" class="btn btn-neutral float-left" title="Nordic-RSE website" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../conference/" class="btn btn-neutral float-right" title="Nordic-RSE conference organization handbook" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The Nordic RSE team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
