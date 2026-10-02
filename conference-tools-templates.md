@@ -13,6 +13,7 @@
 - What to do around
 - Who to contact in case of questions
 - How to join organization team
+- Flyer to share
 
 ## E-mails that can be prepared
 
