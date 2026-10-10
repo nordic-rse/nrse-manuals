@@ -1,0 +1,6 @@
+sphinx
+sphinx_rtd_theme
+sphinx-togglebutton
+sphinx-autobuild
+myst_parser
+sphinx_rtd_theme_ext_color_contrast
