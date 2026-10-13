@@ -10,7 +10,7 @@ What Nordic-RSE puts out, how often, and for whom. Each item links to the detail
 | Social media posts | When there's something to share | Mastodon, Bluesky, LinkedIn | Followers and the wider RSE community | Announcing events and blog posts, visibility | [Social media](#social-media) below |
 | Blog / news | When posts come in | [nordic-rse.org/blog](https://nordic-rse.org/blog/) | The wider RSE community | News, event reports, RSE topics | [website/blog.md](website/blog.md) |
 
-In addition, we have regular meetings (the weekly coffee break, the monthly community meeting and the annual meeting) and the annual conference, where things may be communicated as well. See [meetings.md](meetings.md) and [conference.md](conference.md) for what each one is for. Their dates, times and Zoom links live on [nordic-rse.org](https://nordic-rse.org/).
+In addition, we have regular meetings (the weekly coffee break, the monthly community meeting and the annual meeting) and the annual conference, where things may be communicated as well. See [meetings.md](meetings.md) and [conference/index.md](conference/index.md) for what each one is for. Their dates, times and Zoom links live on [nordic-rse.org](https://nordic-rse.org/).
 
 ## Channels
 

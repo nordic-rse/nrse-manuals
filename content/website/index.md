@@ -20,11 +20,6 @@ Blog posts are named `content/blog/YYYY-MM-DD-slug.md`.
 
 TODO: what kind of content we are looking for in blog posts (e.g. conference/event reports, member spotlights, technical write-ups, community news), and any expectations on length, tone, or review before publishing. link to blog.md
 
-### Use of AI
-
-No fully AI-generated posts. AI tools can help with drafting or summarizing, but a human needs to stay in the loop: read, fact-check, and rewrite in your own voice before publishing. Making a post genuinely engaging — the personal angle, the specific details, the humor, what actually mattered to you about the event or topic — is something AI can't do for you; that part is on the human author.
-
-TODO: Move this section to blog.md ?
 
 ## Calendar
 
