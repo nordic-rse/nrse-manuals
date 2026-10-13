@@ -24,7 +24,10 @@ membership.md
 chat
 community
 meetings
+seminar-series
+communications
 contact
+tools-accounts
 CONTRIBUTING.md
 Logo and artwork <https://github.com/nordic-rse/nordic-rse-materials>
 
