@@ -46,7 +46,7 @@ Once that's done, you're a full member, which means:
 A few other ways to get involved, if you haven't already:
 - Join our Zulip chat: https://coderefinery.zulipchat.com
 - Sign up to the mailing list: https://forms.gle/paPBnvsw5GAXUzBN6
-- Come to our weekly coffee break or biweekly meeting — see
+- Come to our weekly coffee break or monthly community meeting — see
   https://nordic-rse.org/join/ for times.
 
 Welcome aboard!

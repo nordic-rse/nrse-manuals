@@ -2,7 +2,7 @@
 
 ## Invitation
 
-We would like to invite you to the Nordic RSE associations annual meeting on xx at xx CEST. The meeting replaces the biweekly community meeting and is expected to take around 1.5h.
+We would like to invite you to the Nordic RSE associations annual meeting on xx at xx CEST. The meeting replaces the monthly community meeting and is expected to take around 1.5h.
 
 In the meeting we will briefly present the association activities and financial statements for xx. The meeting is also to make important decisions regarding the association, such as selecting the board and deciding the size of the membership fee for xx.
 
@@ -70,13 +70,13 @@ The Nordic RSE board
 ### The associations financial statements, annual report and the statements of the auditors are presented
  - Annual report:
      - Management:
-         - Day to day affairs mainly managed by the biweekly meeting
+         - Day to day affairs mainly managed by the community meeting
          - Domain registration fee sponsored by xx
      - [Events](https://nordic-rse.org/events/):
          - Advent of Code event?
          - Unconference
          - Weekly coffee break
-         - Biweekly community meeting
+         - Monthly community meeting
 
     - Other activities:
         - Write here
@@ -96,7 +96,7 @@ The Nordic RSE board
        - Advent of Code event?
        - Unconference
        - Weekly coffee break
-       - Biweekly community meeting
+       - Monthly community meeting
    - Budget
 
 

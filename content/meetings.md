@@ -2,13 +2,13 @@
 
 Check our website for current times and links for meetings: https://nordic-rse.org/join/
 
-## Coffe break
+## Coffee break
 
 Informal weekly events where everyone can join to have a cup of your favorite beverage, share experiences, discuss the news or also just vent about the daily frustrations of live as a Research Software Engineering enthusiast. This is very informal, no agenda or decisions are made here. Everyone is welcome; bring your friends!
 
-## Community meetings
+## Community meeting
 
-This is where we drive Nordic-RSE forward. Coordination of events and initiatives, reporting on past initiatives and discussion of ideas and opportunities for future collaborations. Everyone welcome, this is a possibilty to shape what Nordic-RSE is and does!
+Held monthly (see [nordic-rse.org/join](https://nordic-rse.org/join/) for date and time). This is where we drive Nordic-RSE forward. Coordination of events and initiatives, reporting on past initiatives and discussion of ideas and opportunities for future collaborations. Everyone welcome, this is a possibilty to shape what Nordic-RSE is and does!
 
 **This is our guideline for every meeting:**
 * Before meeting

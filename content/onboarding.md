@@ -17,8 +17,8 @@ See [community.md](community.md) for the association's aims, and our [Code of Co
 - **Chat - Zulip**: [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com) — our main communication platform, shared with the CodeRefinery community. This makes you part of the community.
     - introduce yourself in #greetings>introductions
     - lots of optional channels, check them out!
-- **Weekly coffee break**: Thursdays at 9:00 Europe/Stockholm (10:00 Europe/Helsinki), same [Zoom link](https://aalto.zoom.us/j/62426845282). Not a planning meeting — an informal chat and a great way to get to know who is around.
-- **Monthly meetings**: [notes and agenda](https://hackmd.io/@nordic-rse/biweekly), [Zoom link](https://aalto.zoom.us/j/62426845282), every second Thursday at 13:00 Europe/Stockholm (starting 2025-08-21). These are our planning meetings — join if you would like to help with activities or shape the association's future. Everybody welcome; you do not have to be a member of the association to join.
+- **Weekly coffee break**: see [nordic-rse.org/join](https://nordic-rse.org/join/) for date, time and Zoom link. Not a planning meeting — an informal chat and a great way to get to know who is around.
+- **Community meeting**: monthly, see [nordic-rse.org/join](https://nordic-rse.org/join/) for date, time and Zoom link; [notes and agenda](https://hackmd.io/@nordic-rse/biweekly). These are our planning meetings — join if you would like to help with activities or shape the association's future. Everybody welcome; you do not have to be a member of the association to join.
 - **Mailing list**: [sign up here](https://forms.gle/paPBnvsw5GAXUzBN6) — best way to stay in contact without interacting much. No need to be a member of the association to sign up.
 - **Association membership**: [membership form](https://forms.gle/bgvYgFHrVMFrccHt6) and [membership fee](https://nordic-rse.org/about/membership-fee) — see [membership.md](membership.md) for how to join and what it enables.
 
