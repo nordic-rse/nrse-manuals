@@ -43,4 +43,4 @@ sphinx-autobuild . _build/html
 
 - Prefer linking to the canonical page over repeating its content — several pages here link to each other (or out to [nordic-rse.org](https://nordic-rse.org)) rather than duplicating text, to avoid the copies drifting out of sync.
 - Public-facing content (who we are, how to join, event info) belongs on nordic-rse.org; this repo is the organizer/board-facing "how we actually do this" side — see the note at the top of [index.md](index.md).
-- Where we don't actually know how something is done in practice, say so with a `TODO:` note rather than guessing or leaving it blank.
+- Where we don't actually know how something works in practice, say so with a `TODO:` note rather than guessing or leaving it blank.

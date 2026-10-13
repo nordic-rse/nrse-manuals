@@ -21,9 +21,9 @@ New here? Start with [onboarding.md](onboarding.md).
 
 onboarding.md
 membership.md
-website.md
 chat
 community
+meetings
 contact
 CONTRIBUTING.md
 Logo and artwork <https://github.com/nordic-rse/nordic-rse-materials>
@@ -43,7 +43,7 @@ conference/funding
 conference/av
 conference/session-chair-guide
 conference/coc
-coc-info-for-organizers.md
+conference/coc-info-for-organizers
 
 ```
 
@@ -54,6 +54,16 @@ coc-info-for-organizers.md
 board/onboarding
 board/annual-meeting
 board/annual-meeting-template
+
+```
+
+```{toctree}
+:caption: Website
+:maxdepth: 1
+
+website/index
+website/blog
+website/planet
 
 ```
 
