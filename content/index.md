@@ -44,6 +44,7 @@ conference/timeline
 conference/tools-templates
 conference/checklist
 conference/funding
+conference/budget
 conference/av
 conference/session-chair-guide
 conference/coc

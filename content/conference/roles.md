@@ -34,7 +34,7 @@ Owns [funding.md](funding.md) end to end: identifying and approaching funders, n
 
 ## Finance chair
 
-Tracks the conference's live budget (see [index.md](index.md#budgeting)) day to day: recording estimated vs. actual costs and income, and processing reimbursements. This is about tracking and managing conference spend, not the association's bookkeeping — for that, stay in close contact with the Nordic-RSE board's treasurer (see [board/onboarding.md](../board/onboarding.md)) for actual payments, invoicing, and reconciling the conference budget with the association's accounts.
+Tracks the conference's live budget (see [budget.md](budget.md)) day to day: recording estimated vs. actual costs and income, and processing reimbursements. This is about tracking and managing conference spend, not the association's bookkeeping — for that, stay in close contact with the Nordic-RSE board's treasurer (see [board/onboarding.md](../board/onboarding.md)) for actual payments, invoicing, and reconciling the conference budget with the association's accounts.
 
 ### Outreach
 
