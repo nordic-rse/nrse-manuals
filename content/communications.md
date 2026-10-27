@@ -27,7 +27,13 @@ For account details and who has access, see [tools-accounts.md](tools-accounts.m
 The newsletter goes to the mailing list and is sent infrequently.
 It is sent by a member of the board whenever there is enough to share.
 
-TODO: what typically goes in it (e.g. upcoming events, conference news, new blog posts, calls for contributions). Fix where we store the old newsletters 
+The newsletter generally includes information about: 
+- Upcoming events
+- Recent blog posts
+- Recent activities
+- Any codes, projects etc from the Nordics worth highlighting
+
+Previous newsletters could be stored on the website as a blog post. (Note that this is currently not done)
 
 ## Social media
 
