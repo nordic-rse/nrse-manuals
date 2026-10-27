@@ -26,6 +26,19 @@ TODO: Fill when to do these!
 
 For the full agenda, invitation text, and meeting notes, use [annual-meeting-template.md](annual-meeting-template.md) — it follows the statutory agenda (Section 10) point by point.
 
+## Board nominations
+
+The new board is elected at the annual meeting. Any member who has paid the membership fee for the current year can stand. See [onboarding.md](onboarding.md#rights-and-responsibilities) for the board's composition and roles.
+
+Members can put themselves forward in two ways:
+
+- before the meeting, by e-mail to secretary@nordic-rse.org, or
+- at the annual meeting itself, when the chair calls for volunteers.
+
+Before the meeting, the board reaches out to possible new board members and prepares a suggested composition, which is pre-filled in the meeting notes. The meeting can change it.
+
+The call for candidates goes out with the invitation to the annual meeting (see the [invitation template](annual-meeting-template.md#invitation)).
+
 Diversity considerations when preparing the formation of the new board:
 
 - research field

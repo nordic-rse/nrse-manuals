@@ -8,6 +8,8 @@ In the meeting we will briefly present the association activities and financial 
 
 Voting in the meeting is restricted to members. If you pay your membership fee before xx, we will count you as a member in the meeting.
 
+Would you like to join the board? Any member can stand for election. Let us know by replying to this e-mail before the meeting, or put yourself forward at the meeting itself.
+
 See the full agenda at xx. You will also find details for joining the remote meeting there.
 
 Regards,
