@@ -46,11 +46,9 @@ zola serve
 - Anyone can suggest changes via [issues](https://github.com/nordic-rse/nordic-rse.github.io/issues), or work on them directly with a fork and pull request.
 - If you want more involvement in the website work, ask to be added to the `nordic-rse` GitHub organization (see [tools-accounts.md](../tools-accounts.md#code-and-websites)).
 - Code and templates are MIT licensed; page content is [CC-BY](http://creativecommons.org/licenses/by/4.0/), same as the rest of Nordic-RSE's material — by contributing content you agree to license it this way.
-- TODO: content/style conventions (writing style, markdown conventions, image formats/sizes, alt text and other accessibility expectations).
-- TODO: commit message or PR conventions, if any.
+
 
 ## Publishing process
 
 Opening a pull request automatically builds a preview of the site, linked in a comment on the PR (`previews/PR<number>/`); the preview is removed once the PR is merged or closed. Pushing or merging to `main` triggers a production build and deploy.
-
-TODO: who is expected/allowed to review and merge pull requests, and whether a review is required before merging.
+Any member of the board or active member of the association can approve pull requests. 

@@ -25,7 +25,6 @@ We are not directly funded by anything, but CodeRefinery supports us by sharing 
 
 All community spaces (chat, meetings, events) are covered by our [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
-TODO: Move to website?
 
 ## Community map
 

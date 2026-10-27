@@ -10,7 +10,7 @@ An overview of the tools and services Nordic-RSE uses, what we use them for, and
 | E-mail: secretary@nordic-rse.org | Main contact address; all conference communication; CoC warning reports | Board members get their own firstname@nordic-rse.org address with delegated access to the secretary account. |
 | Mailing list | Staying in touch with people who don't use the chat; annual meeting reminders | Sign-up via a [Google Form](https://forms.gle/paPBnvsw5GAXUzBN6); E-mails are sent manually by the board.|
 
-TODO: which e-mail provider hosts nordic-rse.org addresses
+TODO: which e-mail provider hosts nordic-rse.org addresses?
 
 ## Meetings and shared documents
 
@@ -42,7 +42,7 @@ TODO: which e-mail provider hosts nordic-rse.org addresses
 | [conference_utilities](https://github.com/nordic-rse/conference_utilities) | Conference helper scripts, e.g. visa invitation letters |
 | nrse-manuals (this repo) | These manuals |
 
-TODO: the blog aggregator ("planet") — see [website/planet.md](website/planet.md).
+
 
 ## Forms and registration
 
@@ -50,7 +50,7 @@ TODO: the blog aggregator ("planet") — see [website/planet.md](website/planet.
 |---|---|---|
 | Google Forms | [Membership form](https://forms.gle/bgvYgFHrVMFrccHt6), [mailing list sign-up](https://forms.gle/paPBnvsw5GAXUzBN6) | board members via delegated secretary account |
 | [Wufoo](https://nordicrse.wufoo.com/forms/z5zh7d61domtah/) | Anonymous Code of Conduct reports | TODO: who has access to submissions? |
-| [NeIC Indico](https://indico.neic.no/) | Conference registration and contribution collection | TODO |
+| [NeIC Indico](https://indico.neic.no/) | Conference registration and contribution collection | ask support@coderefinery.org |
 
 
 ## Finance and administration
@@ -58,8 +58,8 @@ TODO: the blog aggregator ("planet") — see [website/planet.md](website/planet.
 | Tool | Used for | Account / access |
 |---|---|---|
 | [Wise](https://wise.com/) | The association's bank account; membership fees and invoicing (payment instructions on the [membership fee page](https://nordic-rse.org/about/membership-fee/)) | Board members |
-| [PRH](https://prh.fi/) | Finnish Patent and Registration Office, which keeps the association register where Nordic Research Software Engineers ry is registered | TODO: who handles filings, e.g. board changes after the annual meeting. |
-| [Ticket Tailor](https://www.tickettailor.com/) | Conference ticket sales; alternatively the hosting university's own system | TODO |
+| [PRH](https://prh.fi/) | Finnish Patent and Registration Office, which keeps the association register where Nordic Research Software Engineers ry is registered | Nordic-RSE board secretary|
+| [Ticket Tailor](https://www.tickettailor.com/) | Conference ticket sales; alternatively the hosting university's own system | Nordic-RSE treasurer |
 
 ## Outreach and social media
 
