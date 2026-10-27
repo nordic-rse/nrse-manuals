@@ -22,13 +22,15 @@ Held monthly (see [nordic-rse.org/join](https://nordic-rse.org/join/) for date a
 * Update news on the nordic-rse.org, if suitable
 * Note on discussions made
 
-## Topic meetings
+A list of topics to be worked on/discuss/ continue can be found at [](topics.md).
+
+## Topical meetings
 
 Besides the regular community meetings, we sometimes hold separate meetings focused on a single topic or initiative, for example planning an upcoming Nordic-RSE conference. These are organized by the people working on that topic, as often as the work needs. If you'd like to help with an initiative, ask in the community meeting.
 
 ## Board meeting 
 
-The board meets when it considers it necessary, or when at least half of the board members request it. In practice this is usually about twice a year. Only board members attend, and the chair or secretary sends the invitation. See [board/onboarding.md](board/onboarding.md#meetings) for quorum and how the board makes decisions.
+The board meets when it considers it necessary, or when at least half of the board members request it. In practice this is usually about twice a year. Only board members attend, and the chair or secretary sends the invitation. See [](board/onboarding.md#meetings) for quorum and how the board makes decisions.
 
 ## Annual meeting
 
