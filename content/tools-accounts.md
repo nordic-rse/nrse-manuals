@@ -59,7 +59,7 @@ TODO: the blog aggregator ("planet") — see [website/planet.md](website/planet.
 |---|---|---|
 | [Wise](https://wise.com/) | The association's bank account; membership fees and invoicing (payment instructions on the [membership fee page](https://nordic-rse.org/about/membership-fee/)) | Board members |
 | [PRH](https://prh.fi/) | Finnish Patent and Registration Office, which keeps the association register where Nordic Research Software Engineers ry is registered | TODO: who handles filings, e.g. board changes after the annual meeting. |
-| [Ticket Tailor](https://www.tickettailor.com/) | Conference ticket sales  | TODO |
+| [Ticket Tailor](https://www.tickettailor.com/) | Conference ticket sales; alternatively the hosting university's own system | TODO |
 
 ## Outreach and social media
 
@@ -74,4 +74,6 @@ TODO: the blog aggregator ("planet") — see [website/planet.md](website/planet.
 
 ## Accounts to set up when joining
 
-New organizing team members should get accounts on Zulip, GitHub and HackMD, and ask to be added to the Nordic-RSE GitHub organization and HackMD team (see [onboarding.md](onboarding.md#accounts)). Board members additionally get the private Zulip channel, the HackMD board team, and a nordic-rse.org e-mail address (see [board/onboarding.md](board/onboarding.md#access)).
+New organizing team members should get accounts on Zulip, GitHub and HackMD, and ask to be added to the Nordic-RSE GitHub organization and HackMD team. The GitHub organization gives access to a few private repositories and lets you merge pull requests; the HackMD team gives write access to the team notes.
+
+Board members additionally get the private Zulip channel, the HackMD board team, and a nordic-rse.org e-mail address (see [board/onboarding.md](board/onboarding.md#access)).

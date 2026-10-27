@@ -19,9 +19,9 @@ As a board member you have the right to access:
 
 - Private Zulip channel
 - HackMD Nordic RSE board organization
-- Secretary e-mail account 
+- Secretary e-mail account
 
-The secretary e-mail account is handled by delegation. You will get your own firstname@nordic-rse.org address which in turn can access the secretary account for reading and writing e-mails on behalf of the association.
+See [tools-accounts.md](../tools-accounts.md) for how each of these works and how to get access.
 
 ## Meetings
 

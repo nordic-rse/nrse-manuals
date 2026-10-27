@@ -30,7 +30,7 @@ Besides the regular community meetings, we sometimes hold separate meetings focu
 
 ## Board meeting 
 
-The board meets when it considers it necessary, or when at least half of the board members request it. In practice this is usually about twice a year. Only board members attend, and the chair or secretary sends the invitation. See [](board/onboarding.md#meetings) for quorum and how the board makes decisions.
+Only board members attend, and the chair or secretary sends the invitation. See [](board/onboarding.md#meetings) for when the board meets, quorum and how the board makes decisions.
 
 ## Annual meeting
 

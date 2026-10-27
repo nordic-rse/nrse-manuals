@@ -71,13 +71,8 @@ See [nordic-rse/conference_utilities](https://github.com/nordic-rse/conference_u
 
 A-Z document example : https://hackmd.io/@nordic-rse/nrsecon25_az
 
-## Registration and contribution collection
+## Registration, contributions and payment
 
-- NeIC Indico
+See [tools-accounts.md](../tools-accounts.md#forms-and-registration) for the tools we have used (NeIC Indico, Ticket Tailor, or the hosting university's own system).
 
-## Payment handling
-
-TODO: write what we have used before + notes on these tools
-
-- tickettaylor?
-- hosting universities own system 
+TODO: notes on how well these worked.

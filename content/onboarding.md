@@ -43,19 +43,11 @@ Now you know the basics, here are a few more things you can look into if time :)
 
 See [website/index.md](website/index.md) for the website's source and how to contribute to it.
 
-We collect all of our graphics in [our materials GitHub repository](https://github.com/nordic-rse/nordic-rse-materials).
-
-All presentations, posters and data is in our Nordic-RSE associations google drive, ask the board members for access in case you need it. 
+For our graphics, presentations, posters and other shared material, see [tools-accounts.md](tools-accounts.md).
 
 ### Accounts
 
-If you're joining the organizing team, please get yourself an account on the following platforms: 
-
-- Zulip
-- GitHub
-- HackMD
-
-On GitHub we have an organization that you will be added to to have access to few private repositories and be able to merge pull requests etc. On HackMD we have a team that you will be added to to have write access to some team notes. 
+If you're joining the organizing team, see [tools-accounts.md](tools-accounts.md#accounts-to-set-up-when-joining) for the accounts to set up and how to get added to our GitHub organization and HackMD team.
 
 
 ## Thank you!

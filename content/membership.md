@@ -15,7 +15,7 @@ Reach out if you have other ideas for how your organization could help.
 
 - **Voting**: each member has one vote at association meetings — see [board/annual-meeting.md](board/annual-meeting.md) for the full voting/quorum mechanics.
 - **Annual/general assembly**: members are invited to participate — see [board/annual-meeting.md](board/annual-meeting.md) for timing and practicalities.
-- **Board membership**: members can be elected to the board at the annual meeting — see [board/onboarding.md](board/onboarding.md) for board composition and how it works.
+- **Board membership**: members can be elected to the board at the annual meeting — see [board/annual-meeting.md](board/annual-meeting.md#board-nominations) for how to stand, and [board/onboarding.md](board/onboarding.md) for board composition and how it works.
 
 ## Losing membership
 
