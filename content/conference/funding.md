@@ -1,6 +1,6 @@
 # Conference funding
 
-> This document is WIP — the packages and contract section below are a suggested starting point, not settled policy. Adapt with the board/organizing team and update this doc once agreed.
+> We did not yet have any official conference funding (with contract), hence this page is just a first idea and needs updates once we get more experience.
 
 ## Who to approach
 
@@ -19,7 +19,9 @@ Start sponsor outreach around 10 months before the conference (see [timeline.md]
 
 ## Suggested funding packages
 
-A tiered package makes it easy for a funder to see what they get for what they give. Suggested starting point (amounts are placeholders — adjust to local costs and currency):
+> This has not been offered or discussed yet and is only a first example suggestion.
+
+A tiered package may make it easy for a funder to see what they get for what they give. Suggested starting point (amounts are placeholders — adjust to local costs and currency):
 
 ### Supporter (~300–500€ or in-kind equivalent)
 - Logo on the conference website and on-site signage
@@ -39,7 +41,7 @@ A tiered package makes it easy for a funder to see what they get for what they g
 
 ## Contract templates
 
-TODO: we don't have a reusable sponsorship contract/agreement template yet. When drafting one, it should cover at least:
+We don't have a reusable sponsorship contract/agreement template yet. When drafting one, it should cover at least:
 
 - what the funder provides (amount/in-kind contribution, and by when)
 - what Nordic-RSE provides in return (per the package above)
