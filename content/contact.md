@@ -66,5 +66,3 @@ Year 2021
  - Radovan Bast (UiT The Arctic University of Norway)
  - Thomas Arildsen (Aalborg University)
  - Patric Holmvall (Uppsala University), patric.holmvall@physics.uu.se
-
- TODO: Check if 2021 was the first board. 

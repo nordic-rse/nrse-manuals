@@ -6,21 +6,18 @@ Have presenters connect and share their screen via Zoom, even for a fully in-per
 
 ## Collecting contributions in advance
 
-TODO: how we ask presenters to submit their slides ahead of time, in what format, by when, and where they're collected/stored (e.g. shared with the Programme committee). No documented process yet. Consider Submission via Google Docs / Zenodo. 
+To ensure smooth conference experience and a possibility for conference participants to follow along, consider collecting presentation slides before the conference. This could work nicely via Google Drive or Zenodo. 
 
-## Recording
+## Streaming/Recording
 
-TODO: whether we record talks, who's responsible for recording, and where recordings get published afterwards (we do have a [Nordic-RSE YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ), linked from the [resources page](https://nordic-rse.org/resources/)).
+Consider if main conference talks should be streamed/recorded.
 
-## Streaming for hybrid/remote participation
+Recordings could get published at our [Nordic-RSE YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ), and linked from the [resources page](https://nordic-rse.org/resources/).
 
-See the Remote function in [roles.md](roles.md). Zoom (as above) is a natural fit for streaming to remote participants, since it's already our default video tool for other meetings.
-
-TODO: standard workflow for how remote Q&A gets relayed back to the room.
 
 ## Local AV support
 
-Get contact details for the venue's local AV/IT support well before the conference, and confirm how to reach them (phone, on-site desk, etc.) during the event days. If possible, arrange for someone from local AV support to be present on-site on the conference day(s), so a technical problem can be fixed quickly instead of eating into the schedule.
+Get contact details for the venue's local AV/IT support well before the conference, and confirm how to reach them (phone, on-site desk, etc.) during the event days. If possible, arrange for someone from local AV support to be present on-site on the conference day(s) (budget!), so a technical problem can be fixed quickly instead of eating into the schedule.
 
 ## Equipment checklist
 
@@ -33,4 +30,4 @@ Get contact details for the venue's local AV/IT support well before the conferen
 
 ## Backup plan
 
-TODO: Give hints on what to do if AV fails mid-session (backup room laptop, printed slides, etc.) This may differ between locations. Focus on staying calm :) 
+Have a thought on this together with local AV support as this may differ between locations. Focus on staying calm :) 

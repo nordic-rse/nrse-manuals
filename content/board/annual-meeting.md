@@ -12,15 +12,34 @@ Link to statutes: [https://nordic-rse.org/about/governance/](https://nordic-rse.
 
 ## Timeline
 
-TODO: Fill when to do these!
+The times are approximate. The meeting is held January–March.
 
-- Reminder to mailing list and chat to become members and pay their fee
-- Save the date
-- Reach out about new board members
-- Agenda
-- Annual Meeting
-- Notes
-- Website updates
+### ~2 months before
+
+- [ ] Pick a date and send a save the date (mailing list, Zulip, website calendar)
+
+### ~6 weeks before
+
+- [ ] Reach out about new board members (see [Board nominations](#board-nominations))
+
+### ~1 month before
+
+- [ ] Remind the mailing list and chat to become members and pay their fee
+
+### ~2 weeks before (at the latest 7 days, per the statutes)
+
+- [ ] Prepare the agenda and notes from the [template](annual-meeting-template.md#agenda-and-notes)
+- [ ] Send the [invitation](annual-meeting-template.md#invitation) by e-mail, including the call for candidates and the fee deadline
+
+### Meeting
+
+- [ ] Hold the annual meeting
+
+### ~1-2 weeks after
+
+- [ ] Finalize the notes and get them signed by the two auditors of the minutes
+- [ ] Website updates (board list, membership fee) and [contact.md](../contact.md)
+- [ ] Register board changes with [PRH](../tools-accounts.md#finance-and-administration)
 
 ## Meeting parts
 
