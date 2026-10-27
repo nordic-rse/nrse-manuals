@@ -42,7 +42,6 @@ conference/index
 conference/roles
 conference/timeline
 conference/tools-templates
-conference/checklist
 conference/funding
 conference/budget
 conference/av
@@ -68,7 +67,7 @@ board/annual-meeting-template
 
 website/index
 website/blog
-website/planet
+Planet <https://github.com/nordic-rse/planet>
 
 ```
 

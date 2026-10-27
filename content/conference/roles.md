@@ -4,7 +4,7 @@ Short description of each organizing role listed in [index.md](index.md). One pe
 
 ## Main organizer / Conference chair
 
-Overall lead for the conference. Keeps the planning document (see [index.md](index.md#documents)) up to date, is the main point of contact (including via secretary@nordic-rse.org), coordinates the other committees, and tracks the timeline against [timeline.md](timeline.md) and [checklist.md](checklist.md). Also owns overall accountability for the EDIA considerations in [index.md](index.md#edia-considerations), e.g. a balanced organizer team.
+Overall lead for the conference. Keeps the planning document (see [index.md](index.md#documents)) up to date, is the main point of contact (including via secretary@nordic-rse.org), coordinates the other committees, and tracks progress against [timeline.md](timeline.md). Also owns overall accountability for the EDIA considerations in [index.md](index.md#edia-considerations), e.g. a balanced organizer team.
 
 By default, the Main organizer also covers funding/sponsorship and finance (see below) — for a larger conference, these can be split out into a dedicated Funding/sponsorship committee and Finance chair instead.
 

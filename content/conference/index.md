@@ -1,7 +1,7 @@
 # Nordic-RSE conference organization handbook
 
 
-See also: [roles.md](roles.md) (what each role entails), [timeline.md](timeline.md) (when to do what), [checklist.md](checklist.md) (checklist of tasks), [tools-templates.md](tools-templates.md) (tools and templates for websites, e-mails, and forms), [funding.md](funding.md) (funders, packages, and contracts), [budget.md](budget.md) (what to budget for), [av.md](av.md) (AV setup and presenting logistics), and [session-chair-guide.md](session-chair-guide.md) (a step-by-step guide for session chairs).
+See also: [roles.md](roles.md) (what each role entails), [timeline.md](timeline.md) (checklist of what to do when), [tools-templates.md](tools-templates.md) (tools and templates for websites, e-mails, and forms), [funding.md](funding.md) (funders, packages, and contracts), [budget.md](budget.md) (what to budget for), [av.md](av.md) (AV setup and presenting logistics), and [session-chair-guide.md](session-chair-guide.md) (a step-by-step guide for session chairs).
 
 ## Purpose
 
