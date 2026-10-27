@@ -16,9 +16,7 @@ There are also GitHub issue templates for common cases, e.g. a website issue or 
 
 ## Writing blog posts
 
-Blog posts are named `content/blog/YYYY-MM-DD-slug.md`.
-
-TODO: what kind of content we are looking for in blog posts (e.g. conference/event reports, member spotlights, technical write-ups, community news), and any expectations on length, tone, or review before publishing. link to blog.md
+See [](blog.md).
 
 
 ## Calendar
