@@ -1,0 +1,54 @@
+# Nordic-RSE website
+
+We work in the open as much as possible, and our website is our main outward-facing material.
+
+## Source and hosting
+
+[nordic-rse.org](https://nordic-rse.org) is a static site built with [Zola](https://www.getzola.org/) from markdown files, hosted on GitHub Pages. The source is at [nordic-rse/nordic-rse.github.io](https://github.com/nordic-rse/nordic-rse.github.io).
+
+We don't track visitors or use cookies on the website (see the [privacy notice](https://nordic-rse.org/about/governance/privacy/)).
+
+## Content structure
+
+Pages live under `content/`, organized by URL path, e.g. `content/about/`, `content/blog/`, `content/events/`, `content/communities/`, `content/join/`, `content/resources/`. Each event gets its own dated folder under `content/events/`. Static assets (images, CSS, JS) are under `static/`, and Zola/Tera page templates are under `templates/`.
+
+There are also GitHub issue templates for common cases, e.g. a website issue or a seminar series event, under `.github/ISSUE_TEMPLATE/` in the source repo.
+
+## Writing blog posts
+
+See [](blog.md).
+
+
+## Calendar
+
+The [events calendar](https://nordic-rse.org/calendar/) is a separate system from the main website: [nordic-rse/calendar](https://github.com/nordic-rse/calendar) turns `calendars/*.yaml` files (one per calendar: `NordicRSE`, `community`, `conferences`, `other`, `series`) into `.ics` files via [yaml2ics](https://github.com/scientific-python/yaml2ics), and publishes them to GitHub Pages via its own GitHub Actions workflow. The `.ics` feeds are also embedded on the main site (e.g. the Google Calendar embed on the [events page](https://nordic-rse.org/events/#calendar)).
+
+To add or edit an event, edit the relevant `calendars/*.yaml` file in that repository and open a pull request.
+
+## Domain and DNS
+
+GitHub Pages is configured to serve the custom domain via a `CNAME` set in the deploy workflow. For the registrar, DNS provider and who has access, see [tools-accounts.md](../tools-accounts.md#code-and-websites).
+
+## Branding and style assets
+
+Logos (current and old), stickers, and social-media card templates are collected in [nordic-rse/nordic-rse-materials](https://github.com/nordic-rse/nordic-rse-materials), under `graphics/`. Everything there is CC-BY licensed.
+
+## Previewing changes locally
+
+Install [Zola](https://www.getzola.org/documentation/getting-started/installation/), then from the repository root:
+
+```
+zola serve
+```
+
+## Contribution guidelines
+
+- Anyone can suggest changes via [issues](https://github.com/nordic-rse/nordic-rse.github.io/issues), or work on them directly with a fork and pull request.
+- If you want more involvement in the website work, ask to be added to the `nordic-rse` GitHub organization (see [tools-accounts.md](../tools-accounts.md#code-and-websites)).
+- Code and templates are MIT licensed; page content is [CC-BY](http://creativecommons.org/licenses/by/4.0/), same as the rest of Nordic-RSE's material — by contributing content you agree to license it this way.
+
+
+## Publishing process
+
+Opening a pull request automatically builds a preview of the site, linked in a comment on the PR (`previews/PR<number>/`); the preview is removed once the PR is merged or closed. Pushing or merging to `main` triggers a production build and deploy.
+Any member of the board or active member of the association can approve pull requests. 
